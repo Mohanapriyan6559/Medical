@@ -1146,11 +1146,20 @@ footer .footer-content .grid-col .imgss {
 }
 
 .product-card2 button {
-  padding: 5px;
-  background-color: #E75151;
+  padding: 10px;
+  cursor: pointer;
+  background-color:#04bfbf;
+  color: white;
+  font-weight: 400;
+  font-family:var(--asap-reg);
   border: none;
   margin-top: 10px;
   border-radius: 5px;
+}
+
+.product-card2 button:hover{
+  background-color:#f27f0c;
+  color: white;
 }
 
 .products2 {
