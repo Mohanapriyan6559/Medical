@@ -1349,7 +1349,7 @@ input {
     left: 80px;
   }
 }
-@media(max-width:395px){
+@media(max-width:558px){
   #service{
     display: none;
   }
