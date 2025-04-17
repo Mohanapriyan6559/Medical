@@ -278,6 +278,42 @@ main {
   color: blue;
   text-decoration: underline;
 }
+.card1:hover{
+       transition-duration: 0.6s;
+       transform-style: flat;
+       transform: scale(1.02);
+       box-shadow: 2px 2px 5px 2px black;
+       cursor: pointer;
+}
+.card2:hover{
+  transition-duration: 0.6s;
+  transform-style: flat;
+  transform: scale(1.02);
+  box-shadow: 2px 2px 5px 2px black;
+  cursor: pointer;
+}
+.card3:hover{
+  transition-duration: 0.6s;
+  transform-style: flat;
+  transform: scale(1.02);
+  box-shadow: 2px 2px 5px 2px black;
+  cursor: pointer;
+}
+.card4:hover{
+  transition-duration: 0.6s;
+  transform-style: flat;
+  transform: scale(1.02);
+  box-shadow: 2px 2px 5px 2px black;
+  cursor: pointer;
+}
+.card5:hover{
+  transition-duration: 0.6s;
+  transform-style: flat;
+  transform: scale(1.02);
+  box-shadow: 2px 2px 5px 2px black;
+  cursor: pointer;
+}
+
 @media (max-width: 377px) {
   .cards2 .card4 .proname {
     font-size: 25px;
