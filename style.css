@@ -1359,7 +1359,7 @@ input {
    display: none;
   }
 }
-@media(max-width:450px){
+@media(max-width:520px){
   .content-footer{
     display: flex;
     flex-direction: column;
