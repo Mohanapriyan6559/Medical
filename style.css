@@ -44,6 +44,9 @@ body {
   margin: 0 16px;
   display: block;
 }
+.navbar a:hover{
+  color: #f27f0c;
+}
 
 .nav-left, .nav-right {
   display: flex;
