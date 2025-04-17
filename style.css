@@ -1365,5 +1365,14 @@ input {
     flex-direction: column;
     align-items: center;
   }
+  .grid-col{
+    margin-top: 0;
+  }
+  .pl{
+    color:orange;
+  }
+  .arrow{
+    padding:20px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
