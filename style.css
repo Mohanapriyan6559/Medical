@@ -1349,5 +1349,9 @@ input {
     left: 80px;
   }
 }
-
+@media(max-width:395px){
+  #service{
+    display: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
